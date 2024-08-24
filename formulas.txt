@@ -1,0 +1,13 @@
+formula1_name: x*y + z
+formula2_name: sqrt(a^2 + b^2)
+idealGas: n*R*T/V
+ohmLaw: I*R
+capacitor: eo * A / d
+kineticE: 0.5 * m * v
+potentialE: m * g * h
+force: m * a
+pressure: F / A
+work: F * d
+power: W / t
+efficiency: (Wo / Wi) * 100
+tempCK: C + 273.15
