@@ -1,0 +1,2 @@
+# AutoLab
+Python laboratory assistant 
